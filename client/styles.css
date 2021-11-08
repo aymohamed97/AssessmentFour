@@ -1,0 +1,30 @@
+#complimentButton, #fortuneButton {
+display: inline-block;
+width: 20vw; 
+height: 5vh;
+text-align:start;
+background-color: rgb(24, 90, 44);
+color: burlywood;
+margin: 45px;
+
+}
+
+h1, h2 {
+    color: darkolivegreen;
+}
+
+
+body {
+    background-color: rgb(197, 159, 131);
+}
+
+textarea {
+    width: 150px;
+    height: 90px;
+    background-color: rgb(167, 88, 33) ;
+    border-style:ridge;
+  }
+
+input[type=submit]{
+    background-color: seagreen;
+}
