@@ -28,3 +28,4 @@ textarea {
 input[type=submit]{
     background-color: seagreen;
 }
+    max-width: 400px;
